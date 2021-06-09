@@ -1,0 +1,75 @@
+
+NEW SIM START: Cust=1 Tills=4
+Customer 0: Spent 0 in queue.
+SIM COMPLETE
+Longest queue: 1
+NEW SIM START: Cust=1 Tills=4
+Customer 0: Spent 1 in queue.
+SIM COMPLETE
+Longest queue: 1
+NEW SIM START: Cust=1 Tills=4
+Customer 0: Spent 8 in queue.
+SIM COMPLETE
+Longest queue: 1
+NEW SIM START: Cust=1 Tills=4
+Customer 0: Spent 1 in queue.
+SIM COMPLETE
+Longest queue: 1
+NEW SIM START: Cust=2 Tills=4
+Customer 0: Spent 1 in queue.
+Customer 1: Spent 0 in queue.
+SIM COMPLETE
+Longest queue: 1
+NEW SIM START: Cust=3 Tills=4
+Customer 2: Spent 7 in queue.
+Customer 0: Spent 1 in queue.
+Customer 1: Spent 0 in queue.
+SIM COMPLETE
+Longest queue: 1
+NEW SIM START: Cust=40 Tills=4
+Customer 22: Spent 17 in queue.
+Customer 2: Spent 8 in queue.
+Customer 6: Spent 7 in queue.
+Customer 0: Spent 6 in queue.
+Customer 1: Spent 5 in queue.
+Customer 13: Spent 6 in queue.
+Customer 4: Spent 5 in queue.
+Customer 5: Spent 4 in queue.
+Customer 3: Spent 5 in queue.
+Customer 8: Spent 4 in queue.
+Customer 11: Spent 3 in queue.
+Customer 7: Spent 4 in queue.
+Customer 9: Spent 5 in queue.
+Customer 10: Spent 7 in queue.
+Customer 21: Spent 2 in queue.
+Customer 16: Spent 4 in queue.
+Customer 15: Spent 4 in queue.
+Customer 12: Spent 2 in queue.
+Customer 18: Spent 2 in queue.
+Customer 14: Spent 2 in queue.
+Customer 35: Spent 1 in queue.
+Customer 26: Spent 1 in queue.
+Customer 17: Spent 2 in queue.
+Customer 25: Spent 1 in queue.
+Customer 19: Spent 1 in queue.
+Customer 20: Spent 2 in queue.
+Customer 23: Spent 1 in queue.
+Customer 37: Spent 1 in queue.
+Customer 24: Spent 1 in queue.
+Customer 29: Spent 2 in queue.
+Customer 27: Spent 1 in queue.
+Customer 28: Spent 1 in queue.
+Customer 36: Spent 2 in queue.
+Customer 31: Spent 2 in queue.
+Customer 30: Spent 1 in queue.
+Customer 32: Spent 1 in queue.
+Customer 34: Spent 1 in queue.
+Customer 33: Spent 1 in queue.
+Customer 38: Spent 0 in queue.
+Customer 39: Spent 0 in queue.
+SIM COMPLETE
+Longest queue: 1
+NEW SIM START: Cust=1 Tills=4
+Customer 0: Spent 7 in queue.
+SIM COMPLETE
+Longest queue: 1
